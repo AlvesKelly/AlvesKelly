@@ -1,6 +1,6 @@
  ## Oii gente, sou a kelly
  
-  <h1>&nbsp;&nbsp; Sou analista e desenvolvedora de sistemas júnior!!! </h1> &nbsp;
+  <h1>&nbsp;&nbsp; Analista e desenvolvedora de sistemas júnior!!! </h1> &nbsp;
   <div align="center">
   <a href="https://github.com/AlvesKelly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesKelly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
