@@ -7,9 +7,15 @@
 
 ---
 
+## 📚 Sobre mim
+Gosto de aprender coisas novas, ler livros, assistir filmes e ouvir música.  
+Sempre buscando evoluir na área de tecnologia e desenvolvimento.
+
+---
+
 ## 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img alt="HTML" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
@@ -49,11 +55,7 @@
 
 ---
 
-## 📚 Sobre mim
-Gosto de aprender coisas novas, ler livros, assistir filmes e ouvir música.  
-Sempre buscando evoluir na área de tecnologia e desenvolvimento.
 
----
 
  
   
